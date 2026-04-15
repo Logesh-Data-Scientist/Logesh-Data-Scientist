@@ -40,8 +40,11 @@ SQL
 📈 Currently Learning
 
 Advanced Machine Learning
+
 Deep Learning
+
 APIs & Data Engineering
+
 
 Connect With Me
 
