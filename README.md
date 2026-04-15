@@ -1,6 +1,28 @@
-# 💫 About Me:
-Hi, I'm Logesh S 👋<br>A passionate Data Science student with a strong interest in turning data into meaningful insights.<br><br>🎓 Currently pursuing B.Sc. in Data Science<br>📊 Interested in Data Analysis, Machine Learning, and AI<br>🐍 Skilled in Python, Pandas, NumPy, and SQL<br>📈 Love working with real-world datasets and solving problems<br>🌍 Goal: Become a Data Scientist and secure an international placement by 2028
+👋 Hi, I'm Logesh S
+🚀 Aspiring Data Scientist
 
+🎓 B.Sc Data Science Student
+📊 Passionate about turning raw data into meaningful insights
+🤖 Building Machine Learning projects to solve real-world problems
+🌍 Goal: Become a globally competitive Data Scientist by 2026
+
+🧠 Skills & Tools
+
+Languages & Libraries
+
+Python 🐍
+Pandas, NumPy
+Matplotlib, Seaborn
+
+Data Science
+
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Machine Learning (Scikit-learn)
+
+Databases
+
+SQL
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:logeshds247@gmail.com) 
@@ -12,15 +34,14 @@ Hi, I'm Logesh S 👋<br>A passionate Data Science student with a strong interes
 ![](https://streak-stats.demolab.com/?user=Logesh-Data-Scientist&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Logesh-Data-Scientist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Logesh-Data-Scientist&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+📈 Currently Learning
+Advanced Machine Learning
+Deep Learning
+APIs & Data Engineering
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Logesh-Data-Scientist&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+Connect With Me
+📧 Email: logeshds247@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/logesh-ds/
 ---
 [![](https://komarev.com/ghpvc/?username=Logesh-Data-Scientist&icon=1&color=0)](https://visitcount.itsvg.in)
 
