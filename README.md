@@ -1,5 +1,8 @@
-👋 Hi, I'm Logesh S
+👋 Hi, I'm LOGESH S
+
+
 🚀 Aspiring Data Scientist
+
 
 🎓 B.Sc Data Science Student
 📊 Passionate about turning raw data into meaningful insights
@@ -7,21 +10,17 @@
 🌍 Goal: Become a globally competitive Data Scientist by 2026
 
 🧠 Skills & Tools
-
 Languages & Libraries
-
 Python 🐍
 Pandas, NumPy
 Matplotlib, Seaborn
 
 Data Science
-
 Data Cleaning & Preprocessing
 Exploratory Data Analysis (EDA)
 Machine Learning (Scikit-learn)
 
 Databases
-
 SQL
 
 ## 🌐 Socials:
